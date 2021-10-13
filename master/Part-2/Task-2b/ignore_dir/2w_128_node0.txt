@@ -1,0 +1,54 @@
+Files already downloaded and verified
+Files already downloaded and verified
+0 loss:  2.5567591190338135
+average time:  2.811248
+average time:  1.16402
+average time:  1.100117
+average time:  1.03257
+average time:  0.983595
+average time:  0.984872
+average time:  1.179857
+average time:  1.077716
+average time:  1.016125
+average time:  0.947351
+average time:  1.164352
+average time:  1.104089
+average time:  0.998018
+average time:  0.986926
+average time:  1.078442
+average time:  1.009646
+average time:  0.993531
+average time:  1.013783
+average time:  1.000887
+average time:  1.043909
+20 loss:  3.5023984909057617
+average time:  0.987332
+average time:  0.992241
+average time:  0.980326
+average time:  1.06078
+average time:  1.169288
+average time:  1.001897
+average time:  1.066611
+average time:  0.970145
+average time:  0.93306
+average time:  1.105534
+average time:  1.15549
+average time:  1.034424
+average time:  1.005623
+average time:  1.016288
+average time:  0.930063
+average time:  0.961166
+average time:  0.998813
+average time:  0.94381
+average time:  0.95279
+average time:  0.937106
+40 loss:  2.3393747806549072
+60 loss:  2.2952287197113037
+80 loss:  2.2324578762054443
+100 loss:  2.155446767807007
+120 loss:  2.1773555278778076
+140 loss:  2.184879779815674
+160 loss:  2.167722702026367
+180 loss:  2.1314034461975098
+Test set: Average loss: 2.1121, Accuracy: 1819/10000 (18.19%)
+
