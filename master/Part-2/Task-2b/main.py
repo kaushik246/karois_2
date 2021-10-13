@@ -42,7 +42,7 @@ def train_model(model, train_loader, optimizer, criterion, epoch, rank, dist):
         loss = criterion(output, target)
         optimizer.zero_grad()
 
-        # Propage the comouted gradients backward
+        # Propagate the comouted gradients backward
         loss.backward()
 
         # Get the Gradients --->  compute the average
